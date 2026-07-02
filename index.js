@@ -20,3 +20,5 @@ subtract(10, 5)
 multiply(2, 3)
 multiply(10, 5)
 multiply(20, 5)
+multiply(20, 5)
+
