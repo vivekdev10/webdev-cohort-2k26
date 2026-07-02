@@ -8,6 +8,7 @@ function subtract(a, b) {
 }
 
 function multiply(a, b) {
+    if (a < 0 || b < 0) throw new Error('Provide no is in minus')
     return a * b
 }
 
